@@ -10,7 +10,7 @@ export default function Hotels() {
       location: "دبي, الإمارات",
       price: "1,200",
       rating: 4.8,
-      image: "../../src/assets/hotel1.jfif"
+      image: "../../src/assets/hotel1.jpg"
     },
     {
       id: 2,
@@ -18,7 +18,7 @@ export default function Hotels() {
       location: "دبي, الإمارات",
       price: "2,500",
       rating: 5.0,
-      image: "../../src/assets/hotel2.jfif"
+      image: "../../src/assets/hotel1.jpg"
     },
  
   ];

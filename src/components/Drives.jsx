@@ -9,7 +9,7 @@ export default function Drives() {
       capacity: "4",
       luggage: "3",
       price: "150",
-      image: "../../src/assets/viip.jfif"
+      image: "../../src/assets/viip.jpg"
     },
     {
       id: 2,
@@ -17,7 +17,7 @@ export default function Drives() {
       capacity: "7",
       luggage: "5",
       price: "200",
-      image: "../../src/assets/minnivan.jfif"
+      image: "../../src/assets/minnivan.jpg"
     }
   ];
 

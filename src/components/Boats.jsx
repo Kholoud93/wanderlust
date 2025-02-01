@@ -10,7 +10,7 @@ export default function Boats() {
       capacity: "12",
       price: "1500",
       length: "40",
-      image: "../../src/assets/yachtvip.jfif"
+      image: "../../src/assets/yachtvip.jpg"
     },
     {
       id: 2,
@@ -19,7 +19,7 @@ export default function Boats() {
       capacity: "20",
       price: "800",
       length: "35",
-      image: "../../src/assets/yacht.jfif"
+      image: "../../src/assets/yacht.jpg"
     }
   ];
 
