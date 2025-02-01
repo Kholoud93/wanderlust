@@ -27,7 +27,7 @@ export default function CarsRent() {
   return (
     <div className="container mx-auto px-4 py-8">
       {/* Search Form */}
-      <div className="bg-white rounded-lg p-6 mb-8 shadow-lg">
+      <div className="bg-white/30 rounded-lg p-6 mb-8 shadow-lg">
         <div className="grid grid-cols-4 gap-4">
           <div className="flex flex-col">
             <label className="text-black mb-2 text-end">موقع الاستلام</label>
